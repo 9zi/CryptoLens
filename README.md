@@ -1,4 +1,4 @@
-**# CryptoLens
+# CryptoLens
 
 **An accessible, AI-powered cryptocurrency price tracker** — built as a university project.
 Author: **Nathan Etwi-Yeboah**
